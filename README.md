@@ -1,10 +1,10 @@
 # 🧠 Manifesto de Dedicação e Comprometimento
 
-![Status](https://img.shields.io/badge/Status-Concluído-2ea44f?style=for-the-badge)
-![Certificação](https://img.shields.io/badge/Certificação-Luizalabs%20%E2%80%93%20Back--End%20com%20Python™-blue?style=for-the-badge)
-![Plataforma](https://img.shields.io/badge/Plataforma-DIO%20(Digital%20Innovation%20One)-orange?style=for-the-badge)
-![Linguagem](https://img.shields.io/badge/Linguagem-Python™-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Framework](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-2ea44f?style=for-the-badge)<br>
+![Certificação](https://img.shields.io/badge/Certificação-Luizalabs%20%E2%80%93%20Back--End%20com%20Python™-blue?style=for-the-badge)<br>
+![Plataforma](https://img.shields.io/badge/Plataforma-DIO%20(Digital%20Innovation%20One)-orange?style=for-the-badge)<br>
+![Linguagem](https://img.shields.io/badge/Linguagem-Python™-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+![Framework](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)<br>
 ![Ferramenta](https://img.shields.io/badge/Ferramenta-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
